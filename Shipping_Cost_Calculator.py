@@ -1,4 +1,4 @@
-# Here is a new update by rdiag
+# Here is a new update by rdiagop
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
